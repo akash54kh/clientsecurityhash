@@ -1,0 +1,25 @@
+{
+  "version": "2.0",
+  "resources": [
+    {
+      "activityDisplayName": "Get Credential",
+      "activityId": "GetRobotCredential_1",
+      "resource": "asset",
+      "key": "RPA Folder.AcmeCredentials",
+      "id": "assetRPA Folder.AcmeCredentialsRPA FolderFalseAcmeCredentialsFalse",
+      "value": {
+        "folderPath": {
+          "defaultValue": "RPA Folder",
+          "isExpression": false
+        },
+        "name": {
+          "defaultValue": "AcmeCredentials",
+          "isExpression": false
+        }
+      },
+      "metadata": {
+        "BindingsVersion": "2.2"
+      }
+    }
+  ]
+}
