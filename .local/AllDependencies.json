@@ -20150,20 +20150,16 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\akash\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\DELL\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "Client Security Hash",
       "projectName": "Client Security Hash",
-      "projectPath": "C:\\Users\\akash\\Music\\UiPath\\Client Security Hash\\.local",
-      "packagesPath": "C:\\Users\\akash\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\akash\\Music\\UiPath\\Client Security Hash\\.local",
+      "projectPath": "C:\\Users\\DELL\\Music\\UiPath\\ClientSecurityHash\\.local",
+      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\DELL\\Music\\UiPath\\ClientSecurityHash\\.local",
       "UsingMicrosoftNETSdk": false,
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "restoreAuditProperties": {
         "enableAudit": "False"
       }
@@ -20197,7 +20193,7 @@
             "version": "[25.10.6, 25.10.6]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\akash\\AppData\\Local\\Programs\\UiPath\\Studio\\PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\UiPathPlatform\\Studio\\26.0.185-cloud.22017\\PortableRuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {
